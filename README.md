@@ -1,4 +1,4 @@
-TIC TOE TAP:
+#TIC-TOE-TAP:
     1. Player can choose either be Player 1 or Player 2.
     2. Player 1 will go with X token.
     3. Player 2 will go with O token.
