@@ -11,4 +11,9 @@ How to Play:
 Button "Play Again" for playing more times.
 Button "Reset" to refresh back the games and each player don't have X or O on thier scoreboard.
 
+----------
+ATTENTION
+---------
+To avoid unsatisfied when playing this games, please used dekstop or computer display.
+
 Play Here: https://aidaziz89.github.io/Project-Tip-Tap-Toe-/
